@@ -15,3 +15,5 @@ Since AWS SES doesn't support CloudFormation at the moment, you need to create a
 ### Sources ###
 https://medium.com/@ashan.fernando/forwarding-emails-to-your-inbox-using-amazon-ses-2d261d60e417
 https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/
+https://github.com/medmunds/aws-cfn-ses-domain
+https://stackoverflow.com/questions/47026560/do-aws-support-ses-in-cloudformation
